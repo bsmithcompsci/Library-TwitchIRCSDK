@@ -1,4 +1,4 @@
-if (not TARGET asio)
+if (NOT TARGET asio)
     message(FATAL_ERROR "requires ASIO ( https://github.com/chriskohlhoff/asio/ ) - otherwise you cannot continue!")
 endif()
 
