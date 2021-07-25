@@ -7,7 +7,7 @@ To keep things cross-platform, we want to use cmake; see https://github.com/bsmi
 ```cmake
 add_subdirectory(ThirdParty/TwitchIRCSDK)
 
-target_link_library(MyProject PRIVATE TwitchIRCSDK)
+target_link_libraries(MyProject PRIVATE TwitchIRCSDK)
 ```
 
 # Documentation
