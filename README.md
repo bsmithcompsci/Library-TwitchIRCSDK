@@ -1,5 +1,5 @@
 # TwitchIRCSDK
-TwitchIRC Source Development Kit - Simplifies and easy integration to Twitch API.
+TwitchIRC Software Development Kit - Simplifies integration to Twitch API.
 
 # Installation
 
