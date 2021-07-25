@@ -1,4 +1,5 @@
-# TwitchIRCSDK
+![TwitchIRCSDK-Logo](https://github.com/bsmithcompsci/TwitchIRCSDK/blob/main/res/TwitchIRCSDK-Logo.png?raw=true)
+
 TwitchIRC Software Development Kit - Simplifies integration to Twitch API.
 
 # Installation
